@@ -1,0 +1,88 @@
+{
+  "movies": [
+    {
+      "name": "Saw 3D",
+      "rating": 7.5,
+      "overview": "SAW legacy, a group of Jigsaw survivors gathers to seek the support of self-help guru and fellow survivor Bobby Dagen, a man whose own dark secrets unleash a new wave of terror.",
+      "imageURL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qHCZ6LjtmqWDfXXN28TlIC9OppK.jpg",
+      "id": 3
+    },
+    {
+      "name": "Blitz 007",
+      "rating": 9.7,
+      "overview": "A tough, renegade cop with a gay sidekick is dispatched to take down a serial killer who has been targeting police officers. AÇIKLAMA AÇIKLAMAasdsadsad",
+      "imageURL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qCPMjT8Ld8tvs1zs7LY2jpKlRIK.jpg",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "name": "Hostage",
+      "rating": 6.7,
+      "imageURL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4hne3v6jN4MlCnhSkxOW7YspJhr.jpg",
+      "overview": "When a mafia accountant is taken hostage on his beat, a police officer – wracked by guilt from a prior stint as a negotiator – must negotiate the standoff, even as his own family ."
+    },
+    {
+      "id": 6,
+      "name": "The Flash",
+      "rating": 8.3,
+      "overview": "This is a wider card with supporting text below as a natural lead-in to additional content.",
+      "imageURL": "https://image.tmdb.org/t/p/w220_and_h330_face/wHa6KOJAoNTFLFtp7wguUJKSnju.jpg"
+    },
+    {
+      "name": "Arrow",
+      "rating": 7.9,
+      "overview": "This is a wider card with supporting text below as a natural lead-in to additional content.",
+      "imageURL": "https://image.tmdb.org/t/p/w220_and_h330_face/gKG5QGz5Ngf8fgWpBsWtlg5L2SF.jpg",
+      "id": 8
+    },
+    {
+      "name": "The Witcher (2019)",
+      "rating": "10",
+      "overview": "Yalnız bir canavar avcısı olan Rivialı Geralt, insanların yaratıklardan bile daha kötü olabildiği bir dünyada kendine yer edinmeye çalışmaktadır. Ancak kader onu güçlü bir büyücü ve tehlikeli bir sırra sahip genç bir prensesle karşılaştırır. Üçlü, artık her geçen gün daha da vahşi hale gelen bu kıtada birlikte yürümeyi öğrenmelidir. Aksiyon",
+      "imageURL": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/cZ0d3rtvXPVvuiX22sP79K3Hmjz.jpg",
+      "id": 9
+    },
+    {
+      "name": "Mayans M.C. (2018)",
+      "rating": "8.2",
+      "imageURL": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/510A0upV9WRAynEgs1E2B3eBxi5.jpg",
+      "overview": "Jax Teller'ın ölümü sonrası Ezekiel \"EZ\" Reyes, hapishaneden yeni çıkmıştır. EZ, yeni kimliği ile eskiden altın çocuk olduğu kasabaya geri döner.\n\n",
+      "id": 10
+    },
+    {
+      "name": "Avatar: Suyun Yolu (2022)",
+      "rating": "7.5",
+      "imageURL": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/bidENTLt6baEa2ieNT95brFtsvb.jpg",
+      "overview": "Avatar'da yaşanan olaylardan birkaç yıl sonra Jake ve Neytiri Pandora'da kendi ailelerini kurmuştur. Ancak onlar evlerini terk etmek zorunda kalır. Bu yüzden Jake ve Neytiri, suyun yüzeri ve altı dahil olmak üzere Pandora'nın dışındaki yerleri keşfetmeye başlar. Bilim-Kurgu, Macera, Aksiyon",
+      "id": 11
+    },
+    {
+      "name": "Görevimiz Tehlike 7: Ölümcül Hesaplaşma Bölüm 1",
+      "rating": "7.9",
+      "imageURL": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/lBAuLtzBJT1GEvWCFWCKmxqSTfB.jpg",
+      "overview": "Görevimiz Tehlike 7: Ölümcül Hesaplaşma Bölüm 1'de, Ethan Hunt (Tom Cruise) ve IMF ekibi şimdiye kadarki en tehlikeli görevlerine atılıyorlar. Görevleri; yanlış ellere geçmeden önce tüm insanlığı tehdit eden korkunç bir silahın izini sürmek. Geleceğin kontrolü ve dünyanın kaderi tehlikedeyken ve Ethan'ın geçmişinden gelen karanlık güçler yaklaşırken, dünya çapında ölümcül bir yarış başlıyor. Gizemli, her şeye gücü yeten bir düşmanla karşı karşıya kalan Ethan, hiçbir şeyin görevinden daha önemli olamayacağını düşünmek zorunda kalır. En çok değer verdiği kişilerin hayatları bile. Aksiyon, Macera, Gerilim",
+      "id": 12
+    },
+    {
+      "name": "Transformers: Canavarların Yükselişi",
+      "rating": "7.8",
+      "imageURL": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/dMIfRXSzxrsXdO0n6O8lMN79KKD.jpg",
+      "overview": "Film, Dünya'da süren Otobotlarla Decepticon’lar arasındaki savaşta yeni bir Transformers türü olan Maximal'leri evrene dahil ediyor. Aksiyon, Macera, Bilim-Kurgu\n",
+      "id": 13
+    },
+    {
+      "name": "Barbie (2023)",
+      "rating": "3.5",
+      "imageURL": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/iPtla6hJOerwsgw0zMxyEI6pR3Q.jpg",
+      "overview": "Barbie, yaşadığı dünyanın koşullarına uymayan bir kadındır. Yaşadığı dünyanın \"mükemmel kadın\" imajına uzak olduğunu farkeden Barbie, yaşadığı fantastik dünyadan dışlanır ve kimsenin iletişim kurmak istemediği biri halini alır. Uyum sağlayabileceği bir dünya bulma umuduyla bizim yaşadığımız gerçek dünyaya bir yolculuğa çıkar. Bu yeni dünyada, onu kendi evinde dışlanmış kılan farklılıkları, onu özel kılan avantajlara dönüşür. Komedi, Macera, Fantastik\n",
+      "id": 14
+    },
+    {
+      "name": "Eradication (2022)",
+      "rating": "5.7",
+      "imageURL": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/6XZYA9VtCcidCU8Hus0J0V9wFhY.jpg",
+      "overview": "Özet\nWhen an unknown disease wipes out most of the world’s population, a man with unique blood is isolated for study. Fearing for his wife’s safety, he breaks his quarantine – into a world overrun by monstrous Infected and a shadowy agency hunting them down. \n16\n07/15/2022 (US)\nKorku, Gerilim\n1h 24m",
+      "id": 15
+    }
+  ]
+}
