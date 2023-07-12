@@ -5,11 +5,23 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+-------------------------------------------------------------------------------------------
+
+### 'npx json-server --watch src/api/movies.json --port 3002'
+
+Uygulamayı çalıştırmadan önce API dosyasını eklemeniz gerekiyor
+API dosyasının çalıştırdığınızda test etmek için (http://localhost:3002) sitesine bakabilirsiniz.
+
 
 ### `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+
+
+
+-------------------------------------------------------------------------------------------------------------
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
